@@ -10,10 +10,6 @@ public class EcommerceBackendApplication {
 		SpringApplication.run(EcommerceBackendApplication.class, args);
 		
 		int i = 10;
-
-		int j = 20;
-
-		String name="ashokit";
 		
 	}
 
