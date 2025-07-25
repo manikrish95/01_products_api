@@ -8,14 +8,7 @@ public class EcommerceBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceBackendApplication.class, args);
-
-
-		int i = 100;
-
-		
-		int i = 10;
-
-		
+		int j = 200;
 	}
 
 }
